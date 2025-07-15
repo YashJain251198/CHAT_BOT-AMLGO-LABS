@@ -1,0 +1,23 @@
+Terms and Conditions
+
+Welcome to ExampleCorp. By accessing or using our services, you agree to be bound by these Terms and Conditions. Please read them carefully.
+
+1. User Responsibilities:
+You must not misuse our services or interfere with the integrity of our systems. We reserve the right to terminate access for users violating these rules.
+
+2. Privacy Policy:
+We collect minimal personal information necessary to provide our services. This includes your name, email address, and usage data. We never share your data with third parties without your consent.
+
+3. Data Storage:
+All data is stored securely on our encrypted servers located in the EU. You can request data deletion at any time by contacting our support.
+
+4. Intellectual Property:
+All content, logos, and branding remain the property of ExampleCorp and may not be reused without permission.
+
+5. Liability:
+ExampleCorp is not liable for any damages or data loss caused by misuse of our services. Use of the platform is at your own risk.
+
+6. Contact:
+For any queries, you can reach us at support@examplecorp.com.
+
+Effective Date: July 1, 2024

@@ -1,0 +1,8 @@
+streamlit
+langchain
+faiss-cpu
+sentence-transformers
+transformers
+accelerate
+torch
+pickle-mixin
